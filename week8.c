@@ -10,6 +10,6 @@ int fun(int x){
 
 int main(){
     int x;
-    printf("%d",fun(9));
+    printf("%d",fun(4));
 
 }
